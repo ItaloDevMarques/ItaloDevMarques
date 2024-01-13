@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Engenharia de Software do 8° período da UNICEPLAC - Centro Universitário do Planalto Central Apparecido dos Santos.<br>Estou à procura de estágio ou trabalho na área de banco de dados/back-end.<br>Sou proativo, dedicado e com muita vontade de aprender. <br>Tenho conhecimento em Python, Javascript, HTML & CSS, SQL, Hardware, e Windows.<br>Estou ansioso para iniciar minha carreira na área de TI e contribuir para o sucesso da sua empresa.<br><br>Muito obrigado pela atenção.
+Sou estudante de Engenharia de Software do 8° período da UNICEPLAC - Centro Universitário do Planalto Central Apparecido dos Santos.<br>Estou à procura de estágio ou trabalho na área de banco de dados/backend.<br>Sou proativo, dedicado e com muita vontade de aprender. <br>Tenho conhecimento em Python, Javascript, HTML & CSS, SQL, Hardware, e Windows.<br>Estou ansioso para iniciar minha carreira na área de TI e contribuir para o sucesso da sua empresa.<br><br>Muito obrigado pela atenção.
 
 
 ## 🌐 Socials:
